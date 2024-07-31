@@ -5,11 +5,12 @@ export function NavBar() {
         <div className="flex h-screen w-full items-center justify-center p-4 align-middle text-slate-200">
           <div className="grid grid-cols-1 grid-rows-2 md:grid-cols-[1fr_auto] md:grid-rows-[1fr]">
             <div className="px-4 py-4 text-center md:py-0 md:text-left">
+              <h1 className="text-2xl font-bold">James Yang</h1>
               <a href="https://create.t3.gg">
-                <h3 className="text-xl hover:underline">About Me - James Yang</h3>
+                <h3 className="text-xl hover:underline">About Me</h3>
               </a>
               <h1 className="text-2xl font-bold">Chialunyo Studio</h1>
-              <a href="https://t3.gg/faq">
+              <a href="../Studio">
                 <h3 className="text-xl hover:underline">Studio Stuff</h3>
               </a>
               <a href="https://t3.gg/faq">

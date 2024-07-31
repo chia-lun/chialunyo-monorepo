@@ -1,5 +1,5 @@
 import { Metadata } from "next"
-import LandingPage from "./studio/LandingPage/page"
+import LandingPage from "./LandingPage/page"
 
 export const metadata: Metadata = {
   title: "Chialunyo Studio",
